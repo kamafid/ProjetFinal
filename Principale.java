@@ -159,7 +159,14 @@ public class Fenetre Extends JFrame{
 		}	
 		
 	}
-	
+	/**
+	 * Point de départ du programme
+	 * @param args
+	 */
+	public static void main(String[] args){
+		Fenetre fen = new Fenetre();
+		fen.setVisible(true);
+	}
 	
 	
 }
