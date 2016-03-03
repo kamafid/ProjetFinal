@@ -1,2 +1,2 @@
 # ProjetFinal
-C'est le projet final pour le mooc git
+Projet en Java pour se connecter à une base de données par une connection JDBC.
